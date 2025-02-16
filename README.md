@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Paulo Henrique
+Matricula: 887754
 
 ## Tela de inspeção com navegador
-
+![Print da tela com os testes de inspeção de conexão feitos com o navegador](image.png)
 
 ## Tela de projeto no Replit
 
+![tela de um projeto simples](image-1.png)
+![resultado sendo apresentado no navegador](image-2.png)
